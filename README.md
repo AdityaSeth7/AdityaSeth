@@ -1,8 +1,8 @@
 ## About Me
-![image](Adi Headshot 2021.jpg){
-  width:50px;
-  height:100px;
-} 
+
+Heyo! This website is currently in development. With this webiste, I'm hoping to showcase myself skating along with current code projects. Stay tuned!
+
+![image](Adi Headshot 2021.jpg = 50x100)
 
 Hey! My name is Aditya Seth and I am a first year computer science major and prospective economics major from Sacramento, CA. I am focused on applying my creativity and analytical thinking to gain experience in a technical environment, before pursuing a career in building financial software. 
 I can be contacted at aseth@ucdavis.edu. 
